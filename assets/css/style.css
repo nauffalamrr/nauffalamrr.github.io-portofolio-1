@@ -728,4 +728,7 @@ span {
   .skills-container {
     grid-template-columns: repeat(1, 1fr);
   }
+  .skills-box .skills-info {
+    padding: 1rem 1rem;
+  }
 }
